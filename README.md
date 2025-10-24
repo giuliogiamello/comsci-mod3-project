@@ -22,7 +22,7 @@ mkdir comsci-mod3-project
 cd /home/jamal/giulioDATA/Link to IMAPP-Bologna/IMAPP-03-03_Computer science for High energy physics/comsci/comsci-mod3comsci-mod3-project
 ```
 
-- create the `venv` (`mod3_venv` is the name I chosed)
+- create the `venv` (`mod3_venv` is the name I chose)
 
 ```bash
 python -m venv mod3_venv
