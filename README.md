@@ -36,7 +36,7 @@ source mod3_venv/bin/activate
 
 Now the virtual environment is active. 
 
-- to deactivate (still from inside the directory all'interno della cartella `comsci-mod3-project`):
+- to deactivate (still from inside the directory `comsci-mod3-project`):
 
 ```bash
 deactivate
@@ -44,7 +44,7 @@ deactivate
 
 In order to use `jupyter-notebook` inside the `venv`, you need to install it inside it, so:
 
-- **while the`venv` is active** (still from inside the directory all'interno della cartella `comsci-mod3-project`, you should see something like: `(mod3_venv) jamal@jpc:...etc...` where `(mod3_venv)` means the `venv` is active) install jupyter
+- **while the`venv` is active** (still from inside the directory `comsci-mod3-project`, you should see something like: `(mod3_venv) jamal@jpc:...etc...` where `(mod3_venv)` means the `venv` is active) install jupyter
 
 ```bash
 pip install jupyter notebook
